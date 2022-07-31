@@ -22,7 +22,9 @@ body {
   background-color: #fff;
   color: #333;
 }
-
+.inline{
+  display:inline-block
+}
 a {
   color: var(--primary-color);
   text-decoration: none;
